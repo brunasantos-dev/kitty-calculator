@@ -1,6 +1,6 @@
 # kitty-calculator
 
-![imagem do site](/kitty-calculator/assets/kitty-calculator.png)
+![imagem do site](https://github.com/brunasantos-dev/kitty-calculator/blob/main/assets/kitty-calculator.png?raw=true)
 
 Calculadora da Hello Kitty criada com **HTML**, **CSS** e **Javacript**.
 
