@@ -1,4 +1,4 @@
-# kitty-calculator
+# [kitty-calculator](https://brunasantos-dev.github.io/kitty-calculator/).
 
 ![imagem do site](https://github.com/brunasantos-dev/kitty-calculator/blob/main/assets/kitty-calculator.png?raw=true)
 
